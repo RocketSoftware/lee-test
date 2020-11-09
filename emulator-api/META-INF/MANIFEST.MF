@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+RocketSoftware-Product: Common Java Libraries 2
+RocketSoftware-Revision: 536fff1e9e227686aea5ead09d1907a76164e042
+RocketSoftware-Timestamp: 2020-11-05 15:02
+Implementation-Version: 5.1.65-SNAPSHOT
+Archiver-Version: Plexus Archiver
+RocketSoftware-Version: 5.1.65-SNAPSHOT
+Built-By: tstamod
+RocketSoftware-Component: JavaDoc
+RocketSoftware-BuildNumber: 196
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_162
+
